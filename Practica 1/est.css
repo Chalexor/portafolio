@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: #FA5858;
+	
+}
+#contenedor{
+	background-color: #0B173B;
+	width:750px;
+	height:750px;
+	margin: auto;
+		
+}
+
+header {
+	background-color: #610B0B;
+	border:medium;
+	width:750px;
+	height:130px;
+}
+#div1 {
+	background-color: red;
+	border:medium;
+	width:200px;
+	height:100px;
+	border: black 5px dotted;
+	float: inherit;
+	margin-top: -20px;
+	margin-left: 20px;
+}
+
+#img1 
+{
+	width:200px;
+	height:100px;
+}
+
+#div2 {
+	background-color: red;
+	border:medium;
+	width:470px;
+	height:110px;
+	border: black 5px dotted;
+	float: right;
+	margin-top: -120px;
+	margin-right: 20px;
+	
+}
+
+#img2 
+{
+	width:470px;
+	height:110px;
+}
+
+nav {
+	background-color: #5858FA;
+	border:medium;
+	width:750px;
+	height:50px;
+	margin-top: 10px;
+	
+}
+
+section {
+    background-color: #610B0B;
+	border:medium;
+	width:750px;
+	height:480px;
+	margin-top: 10px;
+	
+}
+
+
+#div3 {
+	background-color: red;
+	border:medium;
+	width:500px;
+	height:430px;
+	border: black 5px dotted;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+
+#img3 
+{
+	width:500px;
+	height:430px;
+}
+
+#div4 {
+	background-color: red;
+	border:medium;
+	width:150px;
+	height:430px;
+	border: black 5px dotted;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+
+#img4 
+{
+	width:150px;
+	height:430px;
+}
+
+#nav1 {
+	background-color: #5858FA;
+	border:medium;
+	width:750px;
+	height:50px;
+}

@@ -1,0 +1,120 @@
+
+#contenedor {margin: auto; 
+	background: red;
+	width: 810px;
+	height: 1120px;
+	border:  5px solid;
+	
+	font: bold 20px arial;
+	}
+
+
+
+#top{background-color: #801010;
+	width:780px;
+	height:150px;
+	float: left;
+	margin: auto;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: black 5px solid;
+	text-align: center;}
+	
+.text{background-color: #5858FA;
+	width:132px;
+	height:100px;
+	float: right;
+	margin-right:10px;
+	margin-top: 20px;
+	border: black 5px solid;}
+
+nav{background-color:#801010;
+	width:780px;
+	height:270px;
+	float: left;
+	margin: auto;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: black 5px solid;}
+
+#img{float: left;
+		margin-top: 12px;
+		margin-left: 20px;
+	border: black 5px solid;
+		width: 400px;
+		height: 230px;}
+
+.text2{background-color:  #5858FA;
+	width: 300px;
+	height: 60px;
+	float: right;
+	margin-top: 12px;
+	margin-right: 12px;
+	border: black 5px solid;}
+
+#fondo2{background-color: #801010;
+	width:780px;
+	height:530px;
+	float: left;
+	margin: auto;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: black 5px solid;}
+
+#aside1{background-color:#ffffff;
+	width:95px;
+	height:500px;
+	float: left;
+	margin: auto;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: black 5px solid;
+	
+	}
+
+#izquierda{width: 95px;
+			height: 500px;}
+
+article{background-color:#0B173B;
+	width:520px;
+	height:500px;
+	float: left;
+	margin: auto;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: black 5px solid;
+	
+		}
+
+#aside2{background-color: #ffffff;
+	width:90px;
+	height:500px;
+	float: left;
+	margin: auto;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: black 5px solid
+	
+	}
+footer{background-color: #5858FA;
+	width:780px;
+	height:70px;
+	float: left;
+	margin: auto;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: black 5px solid;
+	text-align: center;
+	
+	
+	}
+table {margin: auto;
+		margin-top: 10px;
+		text-align: center;
+	background-color: #5858FA}
+
+table td{border: black 5px solid; 
+		width:100px;
+		height:60px;
+}
+table tr{ border: black 5px solid;}
